@@ -1,2 +1,3 @@
-Nama : Revky Fauzul Marthaponda
-Kelas: 1406101
+Nama    : Revky Fauzul Marthaponda
+Kelas   : 1406101
+jurusan : Teknik Informatika
